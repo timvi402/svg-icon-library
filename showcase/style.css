@@ -9,7 +9,7 @@ body {
     justify-content: space-between;
     align-items: center;
 
-    font-family: 'Staatliches', sans-serif;
+    font-family: 'arial';
     font-size: 25px;
     font-style: normal;
 
@@ -29,8 +29,6 @@ input {
     font-style: italic;
     font-size: 20px;
     padding-left: 15px;
-    margin-left: 20px;
-    height: 50px;
     width: 250px;
     border-width: 2px;
     border-style: inset;
@@ -60,10 +58,4 @@ input {
     box-shadow: 0 2px 3px 0 #264653;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.icon-card svg {
-    height: 50px;
-    width: 50px;
-    margin-bottom: 10px;
 }

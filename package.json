@@ -1,5 +1,5 @@
 {
-  "name": "RemoteIcons",
+  "name": "remoteicons",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -22,29 +22,12 @@
       "./svg-icons/**/*.svg"
     ],
     "outputDirectory": "./dist/icons",
-    "interfaceName": "RemoteIcons",
+    "interfaceName": "RemoteIcon",
     "typeName": "IconName",
     "prefix": "RemoteIcon",
     "generateType": true,
     "exportCompleteIconSet": true,
     "optimizeForLazyLoading": true,
-    "modelFileName": "RemoteIcons.model",
-    "compileSources": true
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kreuzerk/svg-icon-library-starter.git"
-  },
-  "keywords": [
-    "SVG",
-    "icons",
-    "library",
-    "starter"
-  ],
-  "author": "Kevin Kreuzer",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kreuzerk/svg-icon-library-starter/issues"
-  },
-  "homepage": "https://github.com/kreuzerk/svg-icon-library-starter#readme"
+    "modelFileName": "RemoteIcon.model"
+  }
 }

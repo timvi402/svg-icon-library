@@ -1,32 +1,7 @@
-# svg-icon-library-starter
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [svg-icon-library-starter](#svg-icon-library-starter)
-  - [Getting started](#getting-started)
-  - [Delivering the icons](#delivering-the-icons)
-  - [Consuming your icon library](#consuming-your-icon-library)
-    - [Vanilla JS](#vanilla-js)
-    - [Typescript](#typescript)
-    - [Framework usage](#framework-usage)
-      - [Angular](#angular)
-  - [Custom build](#custom-build)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
-This is a startert project that helps you build your own awesome icon library for any kind of framework or even for vanilla JS or *TypeScript*. Each SVG icons is processed, optimized and build for static code analysers to enable tree shaking.
-
-
-
 ## Getting started
 
-1. Fork this repository
-2. Customize the project by running a full text search and replacing all "REPLACE_ME" occurrences.
-3. Place all you SVG icons into the `svg-icons` folder.
-4. Open up a terminal and type `npm run serve`.
+1. Place all you SVG icons into the `svg-icons` folder.
+2. Open up a terminal and type `npm run serve`.
 
 
 

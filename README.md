@@ -1,7 +1,7 @@
-## Getting started
+## Import and preview
 
-1. Place all you SVG icons into the `svg-icons` folder.
-2. Open up a terminal and type `npm run serve`.
+1. Place all your SVG icons into the `svg-icons` folder that should be built, replace those that should be updated.
+2. Open up a terminal and type `npm run dev`.
 
 
 
